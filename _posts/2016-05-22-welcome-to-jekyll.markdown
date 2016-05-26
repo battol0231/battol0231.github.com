@@ -1,6 +1,4 @@
-﻿---
-layout: post
-title:  "Welcome to Jekyll!"
+﻿@@ -4,21 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2016-05-22 22:40:41 +0900
 categories: jekyll update
 ---
@@ -19,8 +17,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-안녕하세요 컴퓨터공학부 11학번 방준호입니다.
-컴시설 7조입니다. 조장 블로그주소 : minuminu.github.io
+### 안녕하세요 11학번 방준호입니다. 조장블로그 주소 : minuminu.github.io
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
