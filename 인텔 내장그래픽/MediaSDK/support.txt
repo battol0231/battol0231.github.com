@@ -1,8 +1,0 @@
-Please use the following information when submitting customer support requests
-
-Package ID: w_MSDK-HSW_p_4.0.394
-Package Contents: Intel® Media SDK for HSW
-
-Please direct customer support requests through http://www.intel.com/software/products/support
-
-* Other names and brands may be claimed as the property of others.
